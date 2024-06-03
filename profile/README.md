@@ -57,6 +57,14 @@ Para obter ajuda ou discutir o SEI, entre em contato com a equipe em [sei@salina
 
 O SEI é licenciado sob a licença AGPL-3.0.
 
+### Contributors
+
+Agradecemos a quem contribuiu até o momento
+
+* Igor e Nunes
+
+<a href="https://github.com/prefeiturasalinas/.github/graphs/contributors"><img src="https://opencollective.com/prefeiturasalinas/contributors.svg?width=890&button=false" /></a>
+
 
 
 <br>
