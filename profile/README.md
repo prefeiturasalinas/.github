@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/prefeiturasalinas/">
-    <img src="brasaosalinas.png" alt="Logo" >
+    <img src="./.github/brasaosalinas.png" alt="Logo" >
   </a>
 </h1>
 <h1 align="center">  PREFEITURA MUNICIPAL DE SALINAS <BR>
