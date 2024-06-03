@@ -61,8 +61,8 @@ O SEI é licenciado sob a licença AGPL-3.0.
 
 Obrigado a todos os colaboradores que tornaram este projeto possível.
 
-- **Nunes**: [GitHub](https://github.com/Jorgewra) 
-- **Igor**: [GitHub]([https://github.com/AdevSantos) 
+- **Nunes**: [GitHub](https://github.com/nunesinc) | [E-mail](nunes@nunesinc.net) 
+- **Igor**:  [E-mail](igor.ti@salinas.mg.gov.br)
 
 
 
