@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/dec0dOS/amazing-github-template">
+  <a href="https://github.com/prefeiturasalinas/">
     <img src="brasaosalinas.png" alt="Logo" >
   </a>
 </h1>
@@ -18,15 +18,46 @@
 <br />
 
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/prefeiturasalinas/.github/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-[![made with hearth by dec0dOS](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-nunesinc-ff1414.svg?style=flat-square)](https://github.com/nuneinc)
+[![made with hearth by nunesinc](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-nunesinc-ff1414.svg?style=flat-square)](https://github.com/nuneinc)
 
 </div>
 
+## Sistema de Gerenciamento de Informações para a Prefeitura Municipal de Salinas
 
-### Hi there 👋
+O SEI é um sistema amigável que facilita a gestão eletrônica de documentos, automatiza processos administrativos e promove a comunicação interna, visando aprimorar a eficiência, transparência e colaboração na Prefeitura Municipal de Salinas.
 
-Sistema Eletrônico de Informações
+**Benefícios:**
 
-Criado em 24 - 01 - 2024
+* Agilidade na tramitação de documentos;
+* Maior organização e controle dos processos;
+* Melhor comunicação entre departamentos;
+* Acesso à informação de forma rápida e segura;
+* Aumento da produtividade e economia de tempo.
+
+## Contribuindo
+
+Seja bem-vindo para contribuir com o SEI! Aqui estão algumas maneiras de se envolver:
+
+* **Reportar Bug:** [Clique aqui](https://github.com/prefeiturasalinas/.github/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+)
+* **Solicitar Recurso:** [Clique aqui](https://github.com/prefeiturasalinas/.github/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+)
+* **Fazer uma Pergunta:** Junte-se à discussão em [Clique aqui](https://github.com/prefeiturasalinas/.github/discussions)
+
+**Diretrizes de Contribuição:**
+
+* Siga as convenções de nomenclatura e estilo de código do projeto.
+* Faças testes para garantir a qualidade do código.
+* Certifique-se de que suas contribuições estejam bem documentadas e facilitem a compreensão.
+
+**Comunidade e Suporte:**
+
+Para obter ajuda ou discutir o SEI, entre em contato com a equipe em [sei@salinas.mg.gov.br].
+
+
+## Licença
+
+O SEI é licenciado sob a licença AGPL-3.0.
+
+
+
+<br>
 <p> Atualizado em 02 - 06 - 2024
-
