@@ -66,7 +66,3 @@ Obrigado a todos os colaboradores que tornaram este projeto possível.
 
 
 
-
-
-<br>
-<p> Atualizado em 02 - 06 - 2024
