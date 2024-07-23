@@ -57,7 +57,12 @@ Para obter ajuda ou discutir o SEI, entre em contato com a equipe em [sei@salina
 
 O SEI é licenciado sob a licença AGPL-3.0.
 
+## Agradecimentos
 
+Obrigado a todos os parceiros que nos auxiliaram em momentos-chave da implantação do SEI Salinas.
+- Equipe Seplag-MG
+- Equipe TI - Prefeitura Municipal de Contagem - MG
+-
 
 ## Equipe
 
