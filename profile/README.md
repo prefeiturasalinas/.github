@@ -57,12 +57,6 @@ Para obter ajuda ou discutir o SEI, entre em contato com a equipe em [sei@salina
 
 O SEI é licenciado sob a licença AGPL-3.0.
 
-### 🙌 Créditos
-
-Obrigado a todos os colaboradores que tornaram este projeto possível.
-
-- **Nunes**: [GitHub](https://github.com/nunesinc) | [E-mail](nunes@nunesinc.net) 
-- **Igor**:  [E-mail](igor.ti@salinas.mg.gov.br)
 
 
 ## Equipe
